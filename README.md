@@ -1,3 +1,5 @@
+<div align="center">
+
 <!--
 **bontxa/bontxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![aboncine's 42 stats](https://badge.mediaplus.ma/greenbinary/aboncine?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bontxa"/>
+[![aboncine's 42 stats](https://badge.mediaplus.ma/greenbinary/aboncine?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)</br></br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bontxa&layout=compact)
+
+</div>
