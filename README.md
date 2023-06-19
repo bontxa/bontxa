@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![aboncine's 42 stats](https://badge.mediaplus.ma/greenbinary/aboncine?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bontxa"/>
