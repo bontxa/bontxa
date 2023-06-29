@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![aboncine's 42 stats](https://badge.mediaplus.ma/greenbinary/aboncine?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)</br></br>
+[![aboncine's 42 stats](https://badge.mediaplus.ma/darkblue/aboncine?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bontxa&layout=compact)
 
 </div>
